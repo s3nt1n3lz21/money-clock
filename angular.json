@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "money-clock"
+    }
+  },
+  "defaultProject": "money-clock",
+  "cli": {
+    "analytics": false
+  }
 }
